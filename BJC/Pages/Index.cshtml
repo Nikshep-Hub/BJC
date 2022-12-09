@@ -1,0 +1,188 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+
+	<!DOCTYPE html>
+	<html lang="zxx" class="no-js">
+	<head>
+		<!-- Mobile Specific Meta -->
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<!-- Favicon-->
+		<link rel="shortcut icon" href="~/education-master/img/logo.jpg">
+		<!-- Author Meta -->
+		<meta name="author" content="bjc">
+		<!-- Meta Description -->
+		<meta name="description" content="">
+		<!-- Meta Keyword -->
+		<meta name="keywords" content="">
+		<!-- meta character set -->
+		<meta charset="UTF-8">
+		<!-- Site Title -->
+		<title>Education</title>
+
+		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
+			<!--
+			CSS
+			============================================= -->
+			<link rel="stylesheet" href="~/education-master/css/linearicons.css">
+			<link rel="stylesheet" href="~/education-master/css/font-awesome.min.css">
+			<link rel="stylesheet" href="~/education-master/css/bootstrap.css">
+			<link rel="stylesheet" href="~/education-master/css/magnific-popup.css">
+			<link rel="stylesheet" href="~/education-master/css/nice-select.css">							
+			<link rel="stylesheet" href="~/education-master/css/animate.min.css">
+			<link rel="stylesheet" href="~/education-master/css/owl.carousel.css">			
+			<link rel="stylesheet" href="~/education-master/css/jquery-ui.css">			
+			<link rel="stylesheet" href="~/education-master/css/main.css">
+
+
+
+			<style>
+			.container{
+
+				max-width:100% !important;
+			}
+			
+			</style>
+
+		</head>
+		<body style="background-color: #04091e;">	
+		  <header id="header" id="home">
+	  		
+		    <div class="container main-menu" style="background-color: #04091e;max-width: 100% !important;">
+		    	<div class="align-items-center justify-content-between d-flex">
+					<a href="/Index"><img src="~/education-master/img/logo.jpg" alt="" title="" style="width: 40px; /></a>
+			      <div id="logo">
+			        
+			      
+			      <nav id="nav-menu-container">
+			        <ul class="nav-menu">
+			          <li><a href="/Index">Home</a></li>
+			          <li><a href="/About">About</a></li>
+			          <li><a href="/courses">Courses</a></li>
+			          <li><a href="/Contact">Contact</a></li>
+			        </ul>
+			      </nav><!-- #nav-menu-container -->	
+				  </div>
+		    	</div>
+		    </div>
+		  </header><!-- #header -->
+
+			<!-- start banner Area -->
+			<section class="banner-area relative" id="home">
+				<div class="overlay overlay-bg"></div>	
+				<div class="container" style="max-width:unset !important">
+					<div class="row fullscreen d-flex align-items-center justify-content-between">
+						<div class="banner-content col-lg-9 col-md-12">
+							<h1 class="text-uppercase">
+								The Beauty and Joy of Computing
+							 <h3 style="color:white;">	Auburn University</h3>
+							</h1>
+							<br />
+							<a href="/courses" class="primary-btn text-uppercase">Join Course</a>
+						</div>										
+					</div>
+				</div>					
+			</section>
+			<!-- End banner Area -->
+
+			<!-- Start feature Area -->
+			<section class="feature-area">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="single-feature">
+								<div class="title">
+									<h4>Learn Online Courses</h4>
+								</div>
+								<div class="desc-wrap">
+									<p>
+										Usage of the Internet is becoming more common due to rapid advancement
+										of technology.
+									</p>
+									<a href="/courses">Join Now</a>									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-feature">
+								<div class="title">
+									<h4>No.1 of universities</h4>
+								</div>
+								<div class="desc-wrap">
+									<p>
+										For many of us, our very first experience of learning about the celestial bodies begins when we saw our first.
+									</p>
+									<a href="/courses">Join Now</a>									
+								</div>
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-feature">
+								<div class="title">
+									<h4>Huge Library</h4>
+								</div>
+								<div class="desc-wrap">
+									<p>
+										If you are a serious astronomy fanatic like a lot of us are, you can probably remember that one event.
+									</p>
+									<a href="/courses">Join Now</a>									
+								</div>
+							</div>
+						</div>												
+					</div>
+				</div>	
+			</section>
+			<!-- End feature Area -->
+			
+
+			<!-- start footer Area -->		
+			<footer class="footer-area section-gap" style="padding: 10px;margin: 30px;font-size: 10px;">
+				<div class="container">
+					<div class="row">
+						<div class="col-lg-2 col-md-6 col-sm-6" style=" text-align: right;">
+							<div class="single-footer-widget">
+									<img src="~/education-master/img/logo.jpg" style="width:80px;"	/>						
+							</div>
+						</div>
+						<div class="col-lg-2 col-md-6 col-sm-6" style="text-align: left;">
+							<div class="single-footer-widget">
+										
+									<img src="~/education-master/img/AuLogo.jpg"	style="width:140px;"/>	
+							</div>
+						</div>
+						<div class="col-lg-8 col-md-6 col-sm-6">
+							<div class="single-footer-widget">
+									<p style="color:white;">The Beauty and Joy of Computing by University of California, Berkeley and Education Development Center, Inc. is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. The development of this site has been funded by the National Science Foundation under grant nos. 1138596, 1441075, and 1837280; the U.S. Department of Education under grant number S411C200074; and the Hopper-Dean Foundation. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation or our other funders.</p>						
+							</div>
+						</div>
+						@*<div class="col-lg-2 col-md-6 col-sm-6">
+							<div class="single-footer-widget">
+															
+							</div>
+						</div>	*@																	
+					</div>
+				</div>
+			</footer>	
+			<!-- End footer Area -->	
+
+
+			<script src="~/education-master/js/vendor/jquery-2.2.4.min.js"></script>
+			<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+			<script src="~/education-master/js/vendor/bootstrap.min.js"></script>			
+			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>
+  			<script src="~/education-master/js/easing.min.js"></script>			
+			<script src="~/education-master/js/hoverIntent.js"></script>
+			<script src="~/education-master/js/superfish.min.js"></script>	
+			<script src="~/education-master/js/jquery.ajaxchimp.min.js"></script>
+			<script src="~/education-master/js/jquery.magnific-popup.min.js"></script>	
+    		<script src="~/education-master/js/jquery.tabs.min.js"></script>						
+			<script src="~/education-master/js/jquery.nice-select.min.js"></script>	
+			<script src="~/education-master/js/owl.carousel.min.js"></script>									
+			<script src="~/education-master/js/mail-script.js"></script>	
+			<script src="~/education-master/js/main.js"></script>	
+		</body>
+	</html>

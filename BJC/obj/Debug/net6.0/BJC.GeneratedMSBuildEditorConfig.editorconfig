@@ -1,0 +1,88 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BJC
+build_property.RootNamespace = BJC
+build_property.ProjectDir = C:\Users\sgaut\Documents\Auburn University\Fall 22\User Interface\Project\BJC\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\sgaut\Documents\Auburn University\Fall 22\User Interface\Project\BJC
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/CCourseDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ0NvdXJzZURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/Courses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ291cnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/CPlusPlusCourseDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1BsdXNQbHVzQ291cnNlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/CSharpCourseDeatail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ1NoYXJwQ291cnNlRGVhdGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/JavaCourseDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSmF2YUNvdXJzZURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/JavaScriptCourseDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSmF2YVNjcmlwdENvdXJzZURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/PHPCourseDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUEhQQ291cnNlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/PythonCourseDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHl0aG9uQ291cnNlRGV0YWlsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/ReactJSCourseDetail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUmVhY3RKU0NvdXJzZURldGFpbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/sgaut/Documents/Auburn University/Fall 22/User Interface/Project/BJC/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-3oda7w71up
